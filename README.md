@@ -5,6 +5,5 @@
 
 
 
-file name: [uk.po](https://github.com/PavloPGK/Ukrainian-localization-ERPNEXT-16/blob/main/uk.po)
-
+file name: uk.po
 **File placement:** frappe-bench/apps/erpnext/erpnext/locale/uk.po
