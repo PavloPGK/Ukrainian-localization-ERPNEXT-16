@@ -1,5 +1,5 @@
-**Ukrainian localization ERPNEXT 16** /n
-**Українська локалізація ERPNEXT 16** /n
+**Ukrainian localization ERPNEXT 16** <br>
+**Українська локалізація ERPNEXT 16** <br>
 file name: uk.po
 **File placement:** frappe-bench/apps/erpnext/erpnext/locale/uk.po
 **Розміщення файлу:** frappe-bench/apps/erpnext/erpnext/locale/uk.po
