@@ -16,7 +16,7 @@ bench --site site1.local clear-cache<br>
 sudo mkdir -p /home/[user]/frappe-bench/apps/erpnext/erpnext/translations<br>
 
 sudo cp /mnt/myusb1/uk.csv /home/[user]/frappe-bench/apps/erpnext/erpnext/translations/<br>
-sudo chown -R [user]:[user] /home/ufrap16/frappe-bench/apps/erpnext/erpnext/translations<br>
+sudo chown -R [user]:[user] /home/[user]/frappe-bench/apps/erpnext/erpnext/translations<br>
 cd /home/[user]/frappe-bench/<br>
 bench --site site1.local import-translations uk apps/erpnext/erpnext/translations/<br>
 
