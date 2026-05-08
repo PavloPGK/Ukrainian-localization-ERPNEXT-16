@@ -12,7 +12,7 @@ bench --site site1.local clear-cache<br>
 <br>
 
 <br>
-**Installation option 1: via file uk.csv** <br>
+**Installation option 2: via file uk.csv** <br>
 sudo mkdir -p /home/[user]/frappe-bench/apps/erpnext/erpnext/translations<br>
 
 sudo cp /mnt/myusb1/uk.csv /home/[user]/frappe-bench/apps/erpnext/erpnext/translations/<br>
