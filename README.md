@@ -15,7 +15,8 @@ bench --site site1.local import-translations uk apps/erpnext/erpnext/translation
 <img width="1607" height="1342" alt="Screen 2026-05-07 18-08-32" src="https://github.com/user-attachments/assets/05fa64f7-49a4-449a-be29-f6fec91ebb6b" />
 
  <br>
- NOT WORK!!!
+** NOT WORK!!!**
+  <br>
 **Installation option 1: via file uk.po** <br>
 sudo cp /mnt/myusb1/uk.po /home/[user]/frappe-bench/apps/erpnext/erpnext/locale/ <br>
 cd /home/[user]/frappe-bench/apps/erpnext/erpnext/locale/<br>
