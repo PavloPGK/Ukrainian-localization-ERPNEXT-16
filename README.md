@@ -10,6 +10,7 @@ sudo cp /mnt/myusb1/uk.csv /home/[user]/frappe-bench/apps/erpnext/erpnext/transl
 sudo chown -R [user]:[user] /home/[user]/frappe-bench/apps/erpnext/erpnext/translations<br>
 cd /home/[user]/frappe-bench/<br>
 bench --site site1.local import-translations uk apps/erpnext/erpnext/translations/<br>
+bench --site site1.local clear-cache/<br>
 
 
 <img width="1607" height="1342" alt="Screen 2026-05-07 18-08-32" src="https://github.com/user-attachments/assets/05fa64f7-49a4-449a-be29-f6fec91ebb6b" />
